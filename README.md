@@ -1,7 +1,7 @@
 # SistemaHotel 🏨
 
 Este projeto é um **sistema de gerenciamento de hotel** desenvolvido em linguagem C, que permite o controle de quartos, hóspedes e reservas. O sistema é modular e possui funcionalidades como cadastro, edição, listagem e busca de quartos, hóspedes e reservas.
-
+Para executar Bin/Realese/SistemaHotel.exe
 ---
 
 ## 🛠️ Funcionalidades
