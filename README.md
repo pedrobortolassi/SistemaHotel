@@ -1,7 +1,13 @@
 # SistemaHotel 🏨
 
 Este projeto é um **sistema de gerenciamento de hotel** desenvolvido em linguagem C, que permite o controle de quartos, hóspedes e reservas. O sistema é modular e possui funcionalidades como cadastro, edição, listagem e busca de quartos, hóspedes e reservas.
-Para executar Bin/Realese/SistemaHotel.exe
+
+---
+
+## 🚀 Como Executar 
+1. Navegue até a pasta `Bin/Release`.
+2. Execute o arquivo `SistemaHotel.exe`.
+
 ---
 
 ## 🛠️ Funcionalidades
@@ -26,7 +32,7 @@ Para executar Bin/Realese/SistemaHotel.exe
 
 ---
 
-## 🚀 Como Executar
+## 🚀 Como Executar (Passo a Passo Completo)
 
 1. Clone o repositório:
    ```bash
