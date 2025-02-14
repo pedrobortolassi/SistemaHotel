@@ -1,0 +1,71 @@
+# depslib dependency file v1.0
+1733272039 source:c:\users\bruno\documents\p2 testes\sistema hoteis\sistemahotel\main.c
+	<stdio.h>
+	<stdlib.h>
+	"quartos.h"
+	"hospedes.h"
+	"reservas.h"
+
+1733276904 source:c:\users\bruno\documents\p2 testes\sistema hoteis\sistemahotel\quartos.c
+	<stdio.h>
+	<stdlib.h>
+	"quartos.h"
+
+1733271797 c:\users\bruno\documents\p2 testes\sistema hoteis\sistemahotel\hotel.h
+
+1733184517 c:\users\bruno\documents\p2 testes\sistema hoteis\sistemahotel\quartos.h
+	"hotel.h"
+
+1733276091 source:c:\users\bruno\documents\p2 testes\sistema hoteis\sistemahotel\hospedes.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"hospedes.h"
+	<ctype.h>
+
+1733184595 c:\users\bruno\documents\p2 testes\sistema hoteis\sistemahotel\hospedes.h
+	"hotel.h"
+
+1733271550 c:\users\bruno\documents\p2 testes\sistema hoteis\sistemahotel\reservas.h
+	"hotel.h"
+
+1733323123 source:c:\users\bruno\documents\p2 testes\sistema hoteis\sistemahotel\reservas.c
+	<stdio.h>
+	<stdlib.h>
+	"reservas.h"
+
+1733323123 source:c:\users\leticia\downloads\sistemahotel (2)\sistemahotel\reservas.c
+	<stdio.h>
+	<stdlib.h>
+	"reservas.h"
+
+1733357770 c:\users\leticia\downloads\sistemahotel (2)\sistemahotel\reservas.h
+	"hotel.h"
+
+1733356784 c:\users\leticia\downloads\sistemahotel (2)\sistemahotel\hotel.h
+
+1733363054 source:c:\users\leticia\downloads\sistemahotel (2)\sistemahotel\hospedes.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"hospedes.h"
+
+1733357510 c:\users\leticia\downloads\sistemahotel (2)\sistemahotel\hospedes.h
+	"hotel.h"
+
+1733357427 source:c:\users\leticia\downloads\sistemahotel (2)\sistemahotel\main.c
+	<stdio.h>
+	<stdlib.h>
+	"quartos.h"
+	"hospedes.h"
+	"reservas.h"
+
+1733358760 c:\users\leticia\downloads\sistemahotel (2)\sistemahotel\quartos.h
+	"hotel.h"
+
+1733362953 source:c:\users\leticia\downloads\sistemahotel (2)\sistemahotel\quartos.c
+	<stdio.h>
+	<stdlib.h>
+	"quartos.h"
+
